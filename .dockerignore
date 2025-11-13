@@ -1,3 +1,5 @@
 # .dockerignore
 .git
 README.md
+.gitignore
+Jenkinsfile
