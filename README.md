@@ -1,0 +1,1 @@
+# site-static\n\ndocker build -t site-static .\n\ndocker run -d --name site-static -p 8081:80 site-static\n
